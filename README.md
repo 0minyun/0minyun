@@ -9,7 +9,7 @@ Java와 Spring 을 좋아하는 백엔드 개발자 윤영민 입니다.
 <ul>
   <li> Email: yym0320@naver.com</li>
   <li> Git hub :https://github.com/0minyun</li>
-  <li> Resume : </li>
+  <li> C.V : </li>
 </ul>
 
 # 🖥️ Projects
