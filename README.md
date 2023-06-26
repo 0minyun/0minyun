@@ -13,7 +13,7 @@ Java와 Spring 을 좋아하는 백엔드 개발자 윤영민 입니다.
 </ul>
 
 # 🖥️ Projects
-<h2>1. <a href:"h">넷플릭스</a> </h2>
+<h2>1. <a href:"https://github.com/0minyun/netflix_project.git">넷플릭스</a> </h2>
 <!---
 0minyun/0minyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
