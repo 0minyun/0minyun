@@ -13,7 +13,7 @@ Java와 Spring 을 좋아하는 백엔드 개발자 윤영민 입니다.
 </ul>
 
 # 🖥️ Projects
-### 1. [넷플릭스 클론코딩](https://github.com/0minyun/netflix_clone)
+### 1. [넷플릭스 클론코딩](https://github.com/0minyun/netflix_project.git)
 > 넷플릭스 클론 코딩 프로젝트 (팀 프로젝트)</br>
 > 개발 기간 :23.05.23~23.06.23 (1차 완성) (2차 진행중)  </br>
 > </br>
@@ -21,7 +21,7 @@ Java와 Spring 을 좋아하는 백엔드 개발자 윤영민 입니다.
 > Front : HTML5 / CSS3 / Javascript / Jquery /AJAX / Fetch </br>
 > Back  : Java11 / Spring Boot / Gradle /MySQL / Spring Data JPA / Spring MVC
 > </br>
-> ### [프로젝트 상세 설명](https://github.com/0minyun/netflix_clone)  참고
+> ### [프로젝트 상세 설명](https://github.com/0minyun/netflix_project.git)  참고
 > ***
 <!---
 0minyun/0minyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
